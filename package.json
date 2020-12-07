@@ -1,0 +1,16 @@
+{
+  "name": "Ronny",
+  "version": "1.0.0",
+  "description": "My First portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
