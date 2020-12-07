@@ -538,8 +538,8 @@ hr {
 
 @media screen and (max-width: 1024px) {
   #home img {
-    width: 80%;
-    height: 80%;
+    width: 70%;
+    height: 73%;
   }
   
   .navbar-brand {
@@ -659,8 +659,8 @@ hr {
     border-radius: 5px;
   }
   #home img {
-    width: 60%;
-    height: 70%;
+    width: 53%;
+    height: 60%;
     object-fit: cover;
   }
   .home__context-more {
@@ -744,6 +744,12 @@ hr {
   }
   #contact img {
     width: 20rem;
+  }
+}
+
+@media screen and (max-width: 487px) {
+  .contact__text {
+    margin-left: 0;
   }
 }
 
